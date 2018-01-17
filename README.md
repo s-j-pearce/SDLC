@@ -16,3 +16,4 @@ There are seven simple SDLC methodologies:
 
 Each methodology varies in some way from the others. They all have the common purpose: to help deliver high-quality software as quickly and as cost-effective as possible.
 #### 1. Agile
+The agile model 
