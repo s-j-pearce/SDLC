@@ -24,7 +24,7 @@ The V model follows the same flow as waterfall, you would organise it; requireme
 * The model is east and simple to understand and use.
 * The model is easy to manage due to the review process after each phase.
 #### Disadvantages:
-* Not very good for complez and object-oriented projects.
+* Not very good for complex and object-oriented projects.
 * Not good for long or ongoing projects.
 * If the requirements are likely to change then this would not be an ideal model.
 * Once an application is in the testing phase it is difficult to go back and change the functionality.
