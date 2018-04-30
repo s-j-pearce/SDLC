@@ -47,7 +47,7 @@ This model is the idea of developing an initial software idea from very broad sp
 This is the only method appropriate for situations where a detailed system specification is unavailable. Effective in rapidly producing small systems, software with short life spans, and developing sub-components of larger systems.
 #### Disadvantages: 
 It is difficult to measure progress and produce documentation reflecting every version of the system as it evolves. This paradigm usually results in badly structured programs due to continual code modification. Production of good quality software using this method requires highly skilled and motivated programmers.
-### Prototype Model:
+### Prototype Model:(Iterative)
 The idea of the Prototype model is that instead of defining the requirements before a design or coding can proceed, a disposable prototype is built to understand the requirements. This idea in this prototype are then developed further as requirements are understood and mapped out.
 #### Advantages:
 Provides a working model to the user early in the process, enabling early assessment and increasing user's confidence. The developer gains experience and insight by developing a prototype there by resulting in better implementation of requirements. The prototyping model serves to clarify requirements, which are not clear, hence reducing ambiguity and improving communication between the developers and users. There is a great involvement of users in software development. Hence, the requirements of the users are met to the greatest extent. Helps in reducing risks associated with the software.
