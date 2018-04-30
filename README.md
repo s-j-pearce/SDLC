@@ -21,7 +21,7 @@ The V model follows the same flow as waterfall, you would organise it; requireme
 #### Advantages:
 * Highly disiplined model where each phase is completed one at a time.
 * Works best for smaller projects where the requirements are well understood.
-* The model is east and simple to understand and use.
+* The model is easy and simple to understand and use.
 * The model is easy to manage due to the review process after each phase.
 #### Disadvantages:
 * Not very good for complex and object-oriented projects.
@@ -38,9 +38,9 @@ The Spiral Model is a combination of the waterfall model and iterative model. Ea
 #### Advantages:
 Additional functionality or changes can be done at a later stage. Cost estimation becomes easy as the prototype building is done in small fragments. Continuous or repeated development helps in risk management. Continuous or repeated development helps in risk management. There is always a space for customer feedback.
 #### Disadvantages:
-Risk of not meeting the schedule or budget. It works best for large projects only also demands risk assessment expertise. For its smooth operation spiral model protocol needs to be followed strictly. Documentation is more as it has intermediate phases. It is not advisable for smaller project, it might cost them a lot.
+Risk of not meeting the schedule or budget. It works best for large projects only also demands risk assessment expertise. For its smooth operation spiral model protocol needs to be followed strictly. There is more documentation as it has intermediate phases. It is not advisable for smaller project, it might cost them a lot.
 #### How Risk Is Managed
-The spiral model is a risk driven model which means that the overall success of a project highly depends on the risks analysis phase. Risk analysis requires specific expertise on every iteration. Firstly, it seems this model is complicated and hard to run but this model has its strong sides. For example, there’s a possibility to add some additional functionality at the last stages of product development. Since risk monitoring and regular expertise are core characteristics of this approach, the overall project becomes more transparent
+The spiral model is a risk driven model which means that the overall success of a project highly depends on the risks analysis phase. Risk analysis requires specific expertise on every iteration. Firstly, it seems this model is complicated and hard to run but this model has its strong sides. For example, there’s a possibility to add some additional functionality at the last stages of product development. Since risk monitoring and regular expertise are core characteristics of this approach, the overall project becomes more transparent. 
 ### Evolutionary Model:(Iterative)
 This model is the idea of developing an initial software idea from very broad specifications. Each version of you make will inherit the best features from earlier versions. Each version is changed based upon feedback from yourself or your team members to produce a system which meets the clients needs. At this point the system may be delivered. development and validation are done at the same time with feedback between each.
 #### Advantages: 
